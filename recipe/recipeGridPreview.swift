@@ -54,7 +54,11 @@ struct recipeGridPreview: View {
             }
             .frame(width: 125, height: 150)
             .padding(8)
-            .border(Color.black)
+            .cornerRadius(10)
+            .overlay( /// rounded border
+                RoundedRectangle(cornerRadius: 10)
+                    .stroke(.gray, lineWidth: 2)
+            )
             .onAppear() {
                 recipeEntry.getRecipeImg(completion: handleGetRecipeImgResponse)
                 getDisplayName(recipeEntry.user, completion: handleDisplayNameResponse)
