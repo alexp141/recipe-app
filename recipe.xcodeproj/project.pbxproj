@@ -81,9 +81,17 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		9056620D2AB3FD0F00A2189E /* images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
 		94C0DD0429C3BB8800093C36 = {
 			isa = PBXGroup;
 			children = (
+				9056620D2AB3FD0F00A2189E /* images */,
 				94C0DD0F29C3BB8800093C36 /* recipe */,
 				94C0DD0E29C3BB8800093C36 /* Products */,
 				9BC0AEF1B91403452A50A0B6 /* Pods */,
