@@ -16,6 +16,8 @@ When first accessing the app, the user should be able to log in or create an acc
 For incorrect text in such input fields, error messages are displayed for example if an incorrect username or password is found. 
 The system has been built for such edge cases to ensure correct user authorization. Once an account is created, they are able to freely access the app with the ability to log in and log out at any point.
 
+![Account View](images/account-view.jpg)
+
 # Home Feed
 
 The home page shows a scrollable feed of different user’s recipes which contains the information of that user’s username, date of posting, pictures of the dish, name of the recipe, descriptions, 
