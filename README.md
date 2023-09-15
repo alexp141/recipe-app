@@ -36,6 +36,9 @@ By clicking the middle post tab in the app, navigates the user to a page where t
 This acts as a form where the user can input the fields such as recipe name, description, uploading any images which access them to their phone’s photo library, list of ingredients, and directions. 
 Once a recipe has been submitted it will be saved in the database where other users can see it as well either on their home or explore page.
 
+![posting a recipe](images/upload-recipe-1.jpg)
+![posting a recipe](images/upload-recipe-2.jpg)
+
 # Social Metrics - Liking, Followers, Following, Comments
 
 In order to build a social network for the app, there are features that promote social interaction between users. 
