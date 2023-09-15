@@ -16,8 +16,6 @@ When first accessing the app, the user should be able to log in or create an acc
 For incorrect text in such input fields, error messages are displayed for example if an incorrect username or password is found. 
 The system has been built for such edge cases to ensure correct user authorization. Once an account is created, they are able to freely access the app with the ability to log in and log out at any point.
 
-![Account view](images/account-view.jpg)
-
 # Home Feed
 
 The home page shows a scrollable feed of different user’s recipes which contains the information of that user’s username, date of posting, pictures of the dish, name of the recipe, descriptions, 
@@ -59,3 +57,5 @@ The saved recipes will be displayed in a list format where you are able to selec
 # Account Information
 The Account tab contains your account information displaying your profile picture, followers, following, and a logout button. 
 Like other applications, the account tab is a gateway to all of your accounts information which can in the future have additional features such as changing password, changing profile picture, privacy & notification settings, etc.
+
+![Account view](images/account-view.jpg)
