@@ -16,7 +16,7 @@ When first accessing the app, the user should be able to log in or create an acc
 For incorrect text in such input fields, error messages are displayed for example if an incorrect username or password is found. 
 The system has been built for such edge cases to ensure correct user authorization. Once an account is created, they are able to freely access the app with the ability to log in and log out at any point.
 
-![Account View](images/account-view.jpg)
+![Account view](images/account-view.jpg)
 
 # Home Feed
 
@@ -24,6 +24,8 @@ The home page shows a scrollable feed of different user’s recipes which contai
 and an interactable bar beneath each recipe card which has buttons for liking, commenting, and bookmarking. 
 At any point, the user can click on a recipe which navigates them to that recipe’s card with further information and detail for such dish. 
 Furthermore, the home feed has a refresh system where the button on the upper-right corner allows the user to refresh the home feed pulling all the latest recipes from the database.
+
+![Home feed](images/home-feed.jpg)
 
 # Explore/Search Function
 
